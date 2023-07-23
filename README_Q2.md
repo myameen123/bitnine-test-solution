@@ -71,6 +71,3 @@ The third method uses an iterative approach to solve the piecewise recurrence re
 
 The three methods presented above provide different ways of computing the values of a piecewise recurrence relation. The first method is simple and easy to understand but can be slow for large values of `n`. The second method uses memorization to speed up the computation, but it requires additional memory to store the values. The third method is an iterative approach that avoids recursion and is usually the most efficient method for computing the values of a recurrence relation.
 
----
-
-Feel free to modify or expand the sections as needed to provide more details about the piecewise recurrence relation, its application, or any other relevant information.
