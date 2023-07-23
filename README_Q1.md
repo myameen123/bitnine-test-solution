@@ -77,7 +77,3 @@ The main function defines four `int` variables and uses them to create four diff
 4. This new node is passed to the `calc` function, which performs the operation according to the type of this node and returns the result after performing the respective operation.
 
 5. And finally, the main function displays the result.
-
----
-
-Please ensure that the "Working of the Code" section is accurate and matches the actual functionality of your code. Additionally, you may add more sections to the README.md file if required.
